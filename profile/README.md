@@ -18,10 +18,10 @@ Weniger Chaos. Mehr Überblick. Entspannter streamen.
 
 ## 🔗 Links
 
-- 🌐 Website: [firstlayer.app](firstlayer.app)
+- 🌐 Website: [firstlayer.app](https://firstlayer.app)
 - 📦 [Releases](https://github.com/FirstLayerApp/Releases) — Downloads & Changelog
 - 💬 Community: [Discord](https://discord.gg/acaxh5Fe6m)
-- 🌐 Portal: [firstlayer.vercel.app](firstlayer.vercel.app)
+- 🌐 Portal: [firstlayer.vercel.app](https://firstlayer.vercel.app)
 
 ## 📬 Kontakt
 
