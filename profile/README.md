@@ -21,6 +21,7 @@ Weniger Chaos. Mehr Überblick. Entspannter streamen.
 - 🌐 Website: [firstlayer.app](firstlayer.app)
 - 📦 [Releases](https://github.com/FirstLayerApp/Releases) — Downloads & Changelog
 - 💬 Community: [Discord](https://discord.gg/acaxh5Fe6m)
+- 🌐 Portal: [firstlayer.vercel.app](firstlayer.vercel.app)
 
 ## 📬 Kontakt
 
